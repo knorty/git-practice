@@ -1,2 +1,3 @@
-console.log("Hello World, my name is Kyle. This is a small javaScript file.");
+var solution = 18 +11; 
+console.log(solution);
 
